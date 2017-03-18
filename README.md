@@ -11,9 +11,9 @@ Please note that I am working on this project during my free time, and as just a
 alone, I cannot do it all instantly or at will. If your favourite feature is not found in dnEditor and
 you really wish it was there - submit a ticket, and wait. I will eventually get through it.
 
-#####Cheers!
+##### Cheers!
 
-#To-do (sorted by current priority):
+# To-do (sorted by current priority):
  - [x] ~~Finish support for "switch" opcode.~~
  - [x] ~~Switch back to virtual TreeNode.~~
  - [x] ~~Add TreeView context menu with helpful options.~~
@@ -26,7 +26,7 @@ you really wish it was there - submit a ticket, and wait. I will eventually get 
  - [ ] Add member icons.
  - [ ] Add resources support.
 
-##Credits and thanks:
+## Credits and thanks:
  - 0xd4d (dnlib) for the epic library that made this whole project possible and the time he took to help me. 
  Yes, if dnlib didn't exist, this would have only been a fancy dream.
  - WiCKY Hu (Simple Assembly Explorer) for his amazing piece of work. I "borrowed" many ideas and features
@@ -43,8 +43,8 @@ you really wish it was there - submit a ticket, and wait. I will eventually get 
  - li0nsar3c00l for wanting to be here. And for helping me out too, of course.
  - XenoCode for the icon dnEditor currently uses.
  
-####All licenses can be found in the LICENSES.md file in the project root directory.
+#### All licenses can be found in the LICENSES.md file in the project root directory.
  
-##Greetings:
+## Greetings:
  - To you for contributing, bug reporting or using this tool.
  - To all boards, teams and individuals that support this work.
